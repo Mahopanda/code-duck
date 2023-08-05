@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     description="This is an OpenAI-powered Python code analysis tool for reviewing code and making suggestions. It traverses a specified directory, conducting detailed analyses of functions and classes, and evaluates their adherence to SOLID principles and Pythonic style. ",
     author='Haruki',
-    author_email='your.email@example.com',
+    author_email='hharuki852@gmail.com',
     packages=find_packages(),
     install_requires=[
         'openai',
