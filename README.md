@@ -4,7 +4,7 @@ A Python code analysis tool using OpenAI.
 
 ## Installation
 
-Before the package is officially available on PyPI, you can build and install it directly from the source code.
+Before the package is available on PyPI, you can build and install it directly from the source code.
 
 ### Build from Source
 1. Clone the repository:
